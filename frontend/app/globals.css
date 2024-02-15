@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  
+  .tab {
+    @apply p-5 rounded-[16px] bg-black-2 h-full ;
+  }
+
+}
